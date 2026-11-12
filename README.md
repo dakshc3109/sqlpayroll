@@ -28,9 +28,9 @@ A robust, menu-driven **Payroll Management System** built with **Python** and **
 ```text
 sqlpayroll/
 │
-├── payroll_management_system.py                   # Main application script (contains logic, menu, and database connectivity)
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
+├── payroll_management_system.py # Main application script (contains logic, menu, and database connectivity)
+├── requirements.txt             # Python dependencies
+└── README.md                    # Project documentation
 ```
 
 ---
