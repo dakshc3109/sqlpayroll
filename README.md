@@ -28,7 +28,7 @@ A robust, menu-driven **Payroll Management System** built with **Python** and **
 ```text
 sqlpayroll/
 │
-├── main.py                   # Main application script (contains logic, menu, and database connectivity)
+├── payroll_management_system.py                   # Main application script (contains logic, menu, and database connectivity)
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
 ```
@@ -64,7 +64,7 @@ pip install -r requirements.txt
    *(Make sure to run your table creation queries or schema setup here).*
 
 ### Step 4: Configure Database Credentials
-Open `main.py` and update your MySQL connection details (host, user, password, database) in the database connection block:
+Open `payroll_management_system.py` and update your MySQL connection details (host, user, password, database) in the database connection block:
 ```python
 mydb = mysql.connector.connect(
     host="localhost",
@@ -77,7 +77,7 @@ mydb = mysql.connector.connect(
 ### Step 5: Run the Application
 Execute the main script to start the program:
 ```bash
-python main.py
+python payroll_management_system.py
 ```
 
 ---
