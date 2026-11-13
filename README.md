@@ -1,6 +1,6 @@
 # 💼 Payroll Management System
 
-A robust, menu-driven **Payroll Management System** built with **Python** and **MySQL**, designed to streamline employee record management, salary structures, deductions, and payroll processing. Developed as part of Computer Science project work.
+A robust, menu-driven **Payroll Management System** built with **Python** and **MySQL**, designed to streamline employee record management, salary structures, deductions, and payroll processing.
 
 ---
 
